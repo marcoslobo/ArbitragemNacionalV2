@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs/ArbitrageNacional
+/obj/Debug/netcoreapp2.2/ArbitragemNacionalCore.csprojAssemblyReference.cache
+/obj/Debug/netcoreapp2.2/ArbitragemNacionalCore.csproj.FileListAbsolute.txt
+/obj/Debug/netcoreapp2.2/ArbitragemNacionalCore.csproj.CoreCompileInputs.cache
+/obj/Debug/netcoreapp2.2/ArbitragemNacionalCore.assets.cache
+/obj/Debug/netcoreapp2.2/ArbitragemNacionalCore.AssemblyInfoInputs.cache
+/obj/Debug/netcoreapp2.2/ArbitragemNacionalCore.AssemblyInfo.cs
+/obj/project.assets.json
+/obj/ArbitragemNacionalCore.csproj.nuget.g.targets
+/obj/ArbitragemNacionalCore.csproj.nuget.g.props
+/obj/ArbitragemNacionalCore.csproj.nuget.dgspec.json
+/obj/ArbitragemNacionalCore.csproj.nuget.cache
